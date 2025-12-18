@@ -1,5 +1,8 @@
-# Senior System Analyst  
-**Product Team | B2B Marketplace**
+# System Analyst  
+![Vacancy](https://img.shields.io/badge/level-senior-orange)
+![Remote](https://img.shields.io/badge/format-remote-success)
+![Domain](https://img.shields.io/badge/domain-b2b_marketplace-blue)
+![Team](https://img.shields.io/badge/team-product_team-blueviolet)
 
 - [О продукте](#о-продукте)
   - [Наша цель](#наша-цель)
