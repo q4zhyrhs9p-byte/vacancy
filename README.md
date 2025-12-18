@@ -22,6 +22,6 @@ ___
 
 `tg: @funeralburg` | `phone/wp: +79168446852` | `email: a.rusanov@napolke.ru`
 
-Также можно задать вопрос через **Issues**.
+Также можно задать вопрос через **[Issues](https://github.com/andreirusanov/vacancy/issues)**.
 
 Репозиторий можно сводобно распространять, он самодостаточен. 
