@@ -1,8 +1,8 @@
-# Senior System Analyst @ на_полке
+**Senior System Analyst** @на_полке
 
-## About the product
-## Why this role exists
-## What you will actually do
-## What we expect
-## Example of real task
-## Our offer
+**О продукте**
+**О роли**
+**Твои обязанности**
+**Наши требования**
+**Примеры твоих задач**
+**Наше предложение**
