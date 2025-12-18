@@ -22,7 +22,7 @@ ___
 
 #### 📬 Контакты:
 
-`TG: @funeralburg` | `Phone/WP: +79168446852` | `Email: a.rusanov@napolke.com`
+`tg: @funeralburg` | `phone/wp: +79168446852` | `email: a.rusanov@napolke.ru`
 
 Также можно задать вопрос через **Issues**.
 
